@@ -44,3 +44,8 @@ cd devops-engineer-from-scratch-project-49
 ## Калькулятор
 
 [![Демонстрация brain-calc](https://asciinema.org/a/gZ40Ys2iHuojSKYr.svg)](https://asciinema.org/a/gZ40Ys2iHuojSKYr)
+
+
+## Наибольший общий делитель
+
+[![Демонстрация brain-gcd](https://asciinema.org/a/1bdUo4GDwqOu3gKY.svg)](https://asciinema.org/a/1bdUo4GDwqOu3gKY)
