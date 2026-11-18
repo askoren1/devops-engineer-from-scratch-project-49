@@ -54,3 +54,7 @@ cd devops-engineer-from-scratch-project-49
 ## Арифметическая прогрессия
 
 [![Демонстрация brain-progression](https://asciinema.org/a/LTLCKWYIQZjka9ra.svg)](https://asciinema.org/a/LTLCKWYIQZjka9ra)
+
+## Простое ли число?
+
+[![Демонстрация brain-prime](https://asciinema.org/a/lfBFw45U0B8UbjMw.svg)](https://asciinema.org/a/lfBFw45U0B8UbjMw)
