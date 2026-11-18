@@ -1,12 +1,12 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Пять консольных математических игр с тремя раундами в каждой."
 readme = "README.md"
 authors = [
     { name = "Koren_Aleksandr", email = "koren_aleksandr@mail.ru" }
 ]
-requires-python = ">=3.15"
+requires-python = ">=3.14"
 dependencies = [
     "prompt>=0.4.1",
 ]
