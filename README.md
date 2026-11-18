@@ -1,25 +1,18 @@
 # Игры разума (Python)
 
-[![hexlet-check](https://github.com/askoren1/devops-engineer-from-scratch-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/askoren1/devops-engineer-from-scratch-project-49/actions)
-
-Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
-
-Учебный проект Хекслета: https://ru.hexlet.io/programs/devops-engineer-from-scratch
-Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
-
-## Стек
-
-- Python
-
 ## Установка
 
-Требования: Python 3.14 или новее, Git, uv и Make. Блок команд для установки должен выглядеть так:
+**Требования:** Python 3.14 или новее, Git, uv и Make.
 
+Выполните команды в терминале:
+
+```bash
 git clone https://github.com/askoren1/devops-engineer-from-scratch-project-49.git
 cd devops-engineer-from-scratch-project-49
 make install
 make build
 make package-install
+```
 
 ## Использование
 
