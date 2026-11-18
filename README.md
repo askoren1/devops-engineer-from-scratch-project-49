@@ -40,3 +40,7 @@ cd devops-engineer-from-scratch-project-49
 ## Проверка на чётность
 
 [![Демонстрация brain-even](https://asciinema.org/a/Gbjec3TxGuU2NDYC.svg)](https://asciinema.org/a/Gbjec3TxGuU2NDYC)
+
+## Калькулятор
+
+[![Демонстрация brain-calc](https://asciinema.org/a/gZ40Ys2iHuojSKYr.svg)](https://asciinema.org/a/gZ40Ys2iHuojSKYr)

@@ -1,27 +1,17 @@
-from secrets import randbelow
-
 import prompt
 
 ROUNDS_TO_WIN = 3
-MIN_NUMBER = 1
-MAX_NUMBER = 100
 
 
-def is_even(number):
-    return number % 2 == 0
-
-
-def play():
+def run_game(game):
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    print(game.RULES)
 
     for _ in range(ROUNDS_TO_WIN):
-        number = MIN_NUMBER + randbelow(MAX_NUMBER - MIN_NUMBER + 1)
-        correct_answer = "yes" if is_even(number) else "no"
-
-        print(f"Question: {number}")
+        question, correct_answer = game.generate_round()
+        print(f"Question: {question}")
         answer = input("Your answer: ")
 
         if answer != correct_answer:
@@ -35,4 +25,3 @@ def play():
         print("Correct!")
 
     print(f"Congratulations, {name}!")
-    
