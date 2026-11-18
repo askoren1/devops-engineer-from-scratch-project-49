@@ -49,3 +49,8 @@ cd devops-engineer-from-scratch-project-49
 ## Наибольший общий делитель
 
 [![Демонстрация brain-gcd](https://asciinema.org/a/1bdUo4GDwqOu3gKY.svg)](https://asciinema.org/a/1bdUo4GDwqOu3gKY)
+
+
+## Арифметическая прогрессия
+
+[![Демонстрация brain-progression](https://asciinema.org/a/LTLCKWYIQZjka9ra.svg)](https://asciinema.org/a/LTLCKWYIQZjka9ra)
